@@ -1,3 +1,4 @@
 export default function sortHeroes(heroes) {
-  heroes.sort((a, b) => a.health - b.health);
+  const heroesSorted = heroes.sort((a, b) => b.health - a.health);
+  return heroesSorted;
 }
