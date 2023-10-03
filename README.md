@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2r1ropwg15ohaawb?svg=true)](https://ci.appveyor.com/project/myx777/matchers)
+
 # Домашнее задание к лекции «Unit-тестирование»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
